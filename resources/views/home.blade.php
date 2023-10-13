@@ -42,7 +42,7 @@
                 </div>
 
                 <div class="mt-16">
-                    <p class="h3  text-center ">關於本站</p>
+                    <p class="h3  text-center ">首頁</p>
 
                     <div class="d-grid gap-2 col-12 mx-auto">
                         <a class="btn btn-outline-primary" href="{{ route('home.index') }}" role="button">首頁</a>
